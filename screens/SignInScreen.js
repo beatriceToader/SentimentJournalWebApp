@@ -19,7 +19,10 @@ export default function SignInScreen({ navigation }) {
                 secureTextEntry
             />
 
-            <TouchableOpacity style={styles.button}>
+            <TouchableOpacity
+                style={styles.button}
+                onPress={() => navigation.replace("App")}
+            >
                 <Text style={styles.buttonText}>Sign In</Text>
             </TouchableOpacity>
 
