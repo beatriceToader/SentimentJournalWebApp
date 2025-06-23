@@ -1,0 +1,20 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-moodjournalapp-dev-cdc3b-authRole",
+      "UnauthRoleArn": "arn:aws:iam::511551294873:role/amplify-moodjournalapp-dev-cdc3b-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::511551294873:role/amplify-moodjournalapp-dev-cdc3b-authRole",
+      "Region": "us-east-1",
+      "DeploymentBucketName": "amplify-moodjournalapp-dev-cdc3b-deployment",
+      "UnauthRoleName": "amplify-moodjournalapp-dev-cdc3b-unauthRole",
+      "StackName": "amplify-moodjournalapp-dev-cdc3b",
+      "StackId": "arn:aws:cloudformation:us-east-1:511551294873:stack/amplify-moodjournalapp-dev-cdc3b/f2755ad0-4dd7-11f0-a2fc-0e7e312e04ab",
+      "AmplifyAppId": "d1apawlg3b7lvn"
+    },
+    "categories": {
+      "auth": {
+        "moodjournalappb0795937": {}
+      }
+    }
+  }
+}
